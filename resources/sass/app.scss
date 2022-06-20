@@ -6,14 +6,3 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
-
-$font-stack: Helvetica, sans-serif;
-$primary-color: #333;
-$background-color: rgba(250, 250, 250, 0.5);
- 
-body {
-    font: 100% $font-stack;
-    color: $primary-color;
-    background-color: $background-color;
-}
-
