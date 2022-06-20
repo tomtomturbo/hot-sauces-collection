@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 
+use App\Http\Controllers\SauceController;
+
 require __DIR__.'/auth.php';
 
 /*
