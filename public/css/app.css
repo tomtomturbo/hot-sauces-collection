@@ -10271,3 +10271,11 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+body {
+  position: display fixed, position relative;
+}
+
+h1, .h1 {
+  font-size: 60px;
+  position: center align;
+}

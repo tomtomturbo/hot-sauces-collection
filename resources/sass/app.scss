@@ -6,3 +6,21 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+
+
+$font-stack: Helvetica, sans-serif;
+$card-position: display fixed;
+$sticky-position: position relative;
+$card-margin: margin auto;
+$title-size: 60px;
+$title-position: center align;
+
+body {
+position: $card-position, $sticky-position; 
+}
+
+h1{
+font:$font-stack
+font-size: $title-size;
+position: $title-position;
+}
