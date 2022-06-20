@@ -32,6 +32,6 @@ Route::get('/test', function () {
 });
 
 Route::get('/collection', function () {
-    return view('collection
-'); 
+    return view('collection'); 
+
 });
