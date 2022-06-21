@@ -14,13 +14,24 @@ $sticky-position: position relative;
 $card-margin: margin auto;
 $title-size: 60px;
 $title-position: center align;
+$color-purple: rgb(153,0,204);
 
-body {
-position: $card-position, $sticky-position; 
-}
 
 h1{
-font:$font-stack
+font:$font-stack;
 font-size: $title-size;
 position: $title-position;
+color:$color-purple
+}
+
+title{
+position: $center-position;
+}
+
+button{
+color:$color-purple;
+}
+
+card-body{
+
 }

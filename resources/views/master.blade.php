@@ -16,7 +16,7 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
-  <img src="public/images/Inspectah Spicy(2).png" alt="" width="30" height="24" class="d-inline-block align-text-top">
+  <img src= "/images/Inspectah-Spicy2.png" alt="" width="30" height="24" class="d-inline-block align-text-top">
     <a class="navbar-brand" href="#">Inspectah Spicy
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -47,7 +47,7 @@
     <div class="container col-xxl-8 px-4 py-5">
     <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
       <div class="col-10 col-sm-8 col-lg-6">
-        <img src="/images/Chili_logo.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+        <img src="/images/Inspectah-Spicy2.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
       </div>
       <div class="col-lg-6">
         <h1 class="display-5 fw-bold lh-1 mb-3">Discover the World of Hot Sauces</h1>
@@ -56,7 +56,7 @@
  These sauces are delicious, versatile and most definitely HOT!
         </p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-          <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Primary</button>
+          <td><button onclick= "collection.blade.php" type="button" class="btn btn-primary btn-lg px-4 me-md-2">See our Hotsauce Collection</button>
          
         </div>
       </div>
