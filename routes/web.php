@@ -33,7 +33,4 @@ Route::get('/test', function () {
     return view('master'); 
 });
 
-Route::get('/collection', function () {
-    return view('collection'); 
-
-});
+Route::get('/collection', [SauceController::class, 'showAll']);

@@ -7,10 +7,12 @@ use App\Models\Sauce;
 
 class SauceController extends Controller
 {
-public function showAll() {
+    public function showAll() {
 
 
        $sauces = Sauce::all()->sortByDesc('created_at');
-       return view('messages', ['messages' => $sauces]);
-    }}
+       return view('collection', ['sauces' => $sauces]);
+    }
+
+}
 
