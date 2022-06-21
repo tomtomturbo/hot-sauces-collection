@@ -49,9 +49,15 @@
  These sauces are delicious, versatile and most definitely HOT!
         </p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-          <td><a href="/collection"> <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">See our Hotsauce Collection</button> </a>
-         
+          <a href="/collection"> <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">See our Hotsauce Collection</button> </a>
         </div>
+        <br>
+          <p class="lead">We are two friends with a deep love for hot sauces. We love the way it makes our food taste and how it can make a bland dish so much more flavorful.
+            Our collection of hot sauces stands for our  love for food, and an appreciation for all things spicy.
+            We have been collecting hot sauces for years and have curated a collection of hot sauces because we believe that the best meals are prepared with love and that food should  be enjoyed together.
+            We hope you will enjoy your meals and that you will share with your friends and family  </p>
+
+
       </div>
     </div>
 
