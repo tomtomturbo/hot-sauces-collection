@@ -1,3 +1,6 @@
+<!--author: Chanel:Bootstrap, page layout-->
+
+<!--author: Thomas:DB integration(foreach statement)-->
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
