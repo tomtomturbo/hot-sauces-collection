@@ -17,7 +17,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
   <img src= "/images/Inspectah-Spicy2.png" alt="" width="30" height="24" class="d-inline-block align-text-top">
-    <a class="navbar-brand" href="#">Inspectah Spicy
+    <a class="navbar-brand" href="/test">Inspectah Spicy
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -25,11 +25,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Collection</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
-        </li>
+          <a class="nav-link active" aria-current="page" href="/collection">Collection</a>
       </ul>
       <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
@@ -53,18 +49,16 @@
  These sauces are delicious, versatile and most definitely HOT!
         </p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-          <td><button onclick= "collection.blade.php" type="button" class="btn btn-primary btn-lg px-4 me-md-2">See our Hotsauce Collection</button>
+          <td><a href="/collection"> <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">See our Hotsauce Collection</button> </a>
          
         </div>
       </div>
     </div>
 
+    
+          </div>
+        </div>
 
-    <p class="lead">Welcome to the online version of our beloved Hot-Sauce collection where you can find and review delicious and versatile Hot sauces.
-        We are two friends with a deep love for hot sauces. We love the way it makes our food taste and how it can make a bland dish so much more flavorful.
-        Our collection of hot sauces stands for our  love for food, and an appreciation for all things spicy.
-        We have been collecting hot sauces for years and have curated a collection of hot sauces because we believe that the best meals are prepared with love and that food should  be enjoyed together.
-        We hope you will enjoy your meals and that you will share with your friends and family </p>
       </div>
 
 </body>
