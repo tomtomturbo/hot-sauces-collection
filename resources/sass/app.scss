@@ -9,29 +9,37 @@
 
 
 $font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+$background-color: rgb(153,0,204);
 $card-position: display fixed;
 $sticky-position: position relative;
 $card-margin: margin auto;
 $title-size: 60px;
-$title-position: center align;
-$color-purple: rgb(153,0,204);
+$title-position: position center;
+$padding: padding 20px;
+$text-align: text-align center;
+$font-size: 75%;
+
+
+
+body {
+    background-color:$background-color;
+    color: $primary-color;
+}
 
 
 h1{
-font:$font-stack;
-font-size: $title-size;
-position: $title-position;
-color:$color-purple
+    font:$font-stack;
+    font-size: $title-size;
+    position: $title-position;
+    padding:$padding;
+    text-align: $text-align;
 }
 
-title{
-position: $center-position;
-}
-
-button{
-color:$color-purple;
-}
-
-card-body{
+text{
+font-size: $font-size;
 
 }
+
+ 
+ 

@@ -26,7 +26,6 @@
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="/collection">Collection</a>
-  </li>
       </ul>
       <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
@@ -59,10 +58,9 @@
     
           </div>
         </div>
+
       </div>
-    </div>
-  </div>
-  
+
 </body>
 
 </html>
