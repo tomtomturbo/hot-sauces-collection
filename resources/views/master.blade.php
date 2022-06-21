@@ -30,9 +30,6 @@
         <li class="nav-item">
           <a class="nav-link" href="#">About</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Contact</a>
-        </li>
       </ul>
       <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
@@ -62,7 +59,13 @@
       </div>
     </div>
 
-    <div class="album py-5 bg-light">
+
+    <div class="text">Welcome to the online version of our beloved Hot-Sauce collection where you can find and review delicious and versatile Hot sauces.
+        We are two friends with a deep love for hot sauces. We love the way it makes our food taste and how it can make a bland dish so much more flavorful.
+        Our collection of hot sauces stands for our  love for food, and an appreciation for all things spicy. We have been collecting hot sauces for years and have curated a collection of hot sauces because we believe that the best meals are prepared with love and that food should  be enjoyed together.
+        We hope you will enjoy your meals and that you will share with your friends and family </div>
+
+    <!-- <div class="album py-5 bg-light">
     <div class="container">
 
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
@@ -163,7 +166,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
   
 </body>
 
