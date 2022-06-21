@@ -1,3 +1,15 @@
+Figma Link:
+
+https://www.figma.com/file/VaRGer91it0gTV2AKI36y6/Online-Collection--Spicy-Sauces?node-id=0%3A1
+
+pair contract:
+
+https://docs.google.com/document/d/1HtbLH0TOZENrgLw4pm5ekm9Sdp4Vt-i4VKAtZ9XGMF0/edit
+
+DB Schema:
+
+https://drive.google.com/drive/folders/116-EkjNXBYMFIsDNO6YQVw-pHInnTRty
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
